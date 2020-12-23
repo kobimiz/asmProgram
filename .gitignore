@@ -1,0 +1,8 @@
+*.o
+*.out
+makefile2
+*.pdf
+*.sh
+.vscode
+test
+test2
