@@ -1,4 +1,4 @@
-    # 322576364 Kobi Mizrahi
+    # Kobi Mizrahi
     .section .rodata
 print_PString:   .string "length %u, '%s'\n"
 

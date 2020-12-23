@@ -1,4 +1,4 @@
-    # 322576364 Kobi Mizrahi
+    # Kobi Mizrahi
     .section .rodata
 scan_unsigned_int:    .string "%u"
 scan_str:             .string "%s"

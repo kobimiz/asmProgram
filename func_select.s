@@ -1,4 +1,4 @@
-    # 322576364 Kobi Mizrahi
+    # Kobi Mizrahi
     .section .rodata
 print_PStrings:            .string "first pstring length: %d, second pstring length: %d\n"
 print_PStrings_replaced:   .string "old char: %c, new char: %c, first string: %s, second string: %s\n"
